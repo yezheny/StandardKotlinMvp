@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="xbanner_pointId" type="id" />
+    <item name="root_id" type="id" />
+    <item name="base_popup_content_root" type="id"/>
+
+    <item type="id" name="expandable_text"/>
+    <item type="id" name="expand_collapse"/>
+
+    <item type="id" name="loading_animation_progress"/>
+    <item type="id" name="loading_animation_text"/>
+</resources>
